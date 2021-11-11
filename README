@@ -1,1 +1,3 @@
-Running the pipeline will automatically generate the final posteriors and LOO comparison over all 12 models
+Running the prior_9596 pipeline will automatically generate the final posteriors and LOO comparison over all 12 models
+
+standata_maker.R creates all of the stan data inputs from the 1997 data in order to automate assigning stan model outputs to the environment
